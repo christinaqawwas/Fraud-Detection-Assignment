@@ -1,4 +1,4 @@
-# Fraud-Detection-Assignment-
+# Fraud-Detection-Assignment
 Fraud Detection Assignment submission including data analysis, preprocessing, modeling, and evaluation 
 
 | Model | AUC-ROC | F1 | Fraud Recall |
